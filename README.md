@@ -3,7 +3,7 @@
 
 **Welcome to the Rattle Bots Club Workshop on ESP8266! This guide will help you set up your environment for programming the ESP8266.**
 
-
+RB
 Installing ESP8266 with Arduino Boards Manager
 Starting with Arduino IDE version 1.6.4, the platform supports third-party packages like ESP8266. Follow the steps below to set up your development environment:
 
